@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya",
-  "version": "1.0.2",
-  "description": "🏠 Offical Homebridge plugin for TuyAPI ",
+  "name": "homebridge-kogan",
+  "version": "0.0.1",
+  "description": "Homebridge plugin for Kogan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/moparker231/homebridge-kogan.git"
   },
   "author": "Rayan Khan",
   "license": "MIT",
@@ -33,7 +33,7 @@
   "keywords": [
     "homebridge-plugin",
     "homebridge",
-    "homebridge-tuya",
+    "homebridge-kogan",
     "tuya"
   ],
   "engines": {
